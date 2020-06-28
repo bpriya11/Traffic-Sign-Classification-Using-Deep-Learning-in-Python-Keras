@@ -4,7 +4,7 @@ In this project we are building a traffic sign classifier. This classifier is us
 In this projest we have used Convulational Neural Network to train and classify the data. The dataset used is provided by Coursera.
 We have achieved an accuracy of 87% while predicting the dataset.
 
-In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
+In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs). Below is the appendix for the dataset of images used.
 
 #################################################APPENDIX##################################################
 
